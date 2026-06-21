@@ -1,0 +1,4 @@
+# Ignorer uniquement le fichier trop gros (125 MB)
+data/temp_combined.csv
+
+# Le reste est autorisé
