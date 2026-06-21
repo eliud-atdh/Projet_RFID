@@ -1,7 +1,7 @@
-# Projet RFID Analytics — ESIGELEC Rouen
+# Projet RFID Analytics — 
 
-Projet de fin de semestre 8 — Spécialité Big Data  
-Réalisé en binôme / groupe dans le cadre du cours TIC (Technologies de l'Information et de la Communication)
+Projet — Big Data  
+Réalisé en groupe dans le cadre du cours TIC (Technologies de l'Information et de la Communication)
 
 ---
 
@@ -159,7 +159,7 @@ Combine plusieurs arbres de décision. Le plus robuste au bruit RFID. Fournit le
 ## Auteurs
 
 Projet réalisé par des étudiants en 2ème année cycle ingénieur — Spécialité Big Data  
-**ESIGELEC — Rouen — Semestre 8 — 2024/2025**
+**ESIGELEC-- 2024/2025**
 
 ---
 
